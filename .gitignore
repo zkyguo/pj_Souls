@@ -75,4 +75,4 @@ DerivedDataCache/*
 
 #Content but except Blueprint
 Content/*
-!Content/CombatSystem
+!Content/CombatSystem/*
